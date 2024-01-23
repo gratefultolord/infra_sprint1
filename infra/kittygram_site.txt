@@ -1,0 +1,5 @@
+IP: 84.201.164.50;
+name_taski: https://taskiproject.ddns.net/;
+name_kittygram: https://kittydotgram.ddns.net/;
+login: acer_user;
+password: kittygram;
